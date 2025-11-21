@@ -79,11 +79,16 @@ Updating student...
 Saving records...
 
 Menu Option Overview
+
+
 <img width="601" height="272" alt="image" src="https://github.com/user-attachments/assets/65a897bd-e5c6-4239-9036-1a2f542624e3" />
 
+
 Sample Output
+
+
 <img width="523" height="122" alt="image" src="https://github.com/user-attachments/assets/4ee32fa7-cbfc-4df3-99c9-da76848e1122" />
 
 
 
-This simulates loading animations.
+
